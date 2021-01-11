@@ -64,7 +64,7 @@ export default () => {
           </p>
           <h2>Companies with the best social diversity score</h2>
           <div className="row">
-            <div className={`col-4 ${styles.rankingCol}`}>
+            <div className={`col-md-4 ${styles.rankingCol}`}>
               <div>
                 <strong>Name</strong>
                 <ul className={`${styles.ranking}`}>
@@ -74,7 +74,7 @@ export default () => {
                 </ul>
               </div>
             </div>
-            <div className={`col-4 ${styles.rankingCol}`}>
+            <div className={`col-md-4 ${styles.rankingCol}`}>
               <div>
                 <strong>Sector</strong>
                 <ul className={`${styles.ranking}`}>
@@ -84,7 +84,7 @@ export default () => {
                 </ul>
               </div>
             </div>
-            <div className={`col-4 ${styles.rankingCol}`}>
+            <div className={`col-md-4 ${styles.rankingCol}`}>
               <div>
                 <strong>Score</strong>
                 <ul className={`${styles.ranking}`}>
@@ -98,7 +98,7 @@ export default () => {
           <br />
           <h2>Companies with highest proportions of women in their boards</h2>
           <div className="row">
-            <div className={`col-2 ${styles.rankingCol}`}>
+            <div className={`col-md-2 ${styles.rankingCol}`}>
               <div>
                 <strong>Name</strong>
                 <ul className={`${styles.ranking}`}>
@@ -108,7 +108,7 @@ export default () => {
                 </ul>
               </div>
             </div>
-            <div className={`col-2 ${styles.rankingCol}`}>
+            <div className={`col-md-2 ${styles.rankingCol}`}>
               <div>
                 <strong>Sector</strong>
                 <ul className={`${styles.ranking}`}>
@@ -118,7 +118,7 @@ export default () => {
                 </ul>
               </div>
             </div>
-            <div className={`col-2 ${styles.rankingCol}`}>
+            <div className={`col-md-2 ${styles.rankingCol}`}>
               <div>
                 <strong>General</strong>
                 <ul className={`${styles.ranking}`}>
@@ -132,7 +132,7 @@ export default () => {
                 </ul>
               </div>
             </div>
-            <div className={`col-2 ${styles.rankingCol}`}>
+            <div className={`col-md-2 ${styles.rankingCol}`}>
               <div>
                 <strong>Lower</strong>
                 <ul className={`${styles.ranking}`}>
@@ -146,7 +146,7 @@ export default () => {
                 </ul>
               </div>
             </div>
-            <div className={`col-2 ${styles.rankingCol}`}>
+            <div className={`col-md-2 ${styles.rankingCol}`}>
               <div>
                 <strong>Middle</strong>
                 <ul className={`${styles.ranking}`}>
@@ -160,7 +160,7 @@ export default () => {
                 </ul>
               </div>
             </div>
-            <div className={`col-2 ${styles.rankingCol}`}>
+            <div className={`col-md-2 ${styles.rankingCol}`}>
               <div>
                 <strong>Upper</strong>
                 <ul className={`${styles.ranking}`}>
